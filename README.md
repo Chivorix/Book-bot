@@ -1,2 +1,3 @@
 # Book-bot
-My first public project, baby steps...
+
+BookBot is my first project!
